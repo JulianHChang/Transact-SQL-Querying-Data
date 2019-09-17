@@ -1,3 +1,6 @@
+<img src="images/jhc_sqlcertificate.png" width=80%>
+
+## Link: [EDX VERIFIED CERTIFICATE of ACHIEVEMENT](https://courses.edx.org/certificates/c7a06c9361284b6eb5e0355cdda4a2c1)
 
 # Basic SQL Query Structure
 
