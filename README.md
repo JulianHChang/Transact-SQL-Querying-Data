@@ -24,8 +24,8 @@ HAVING
 ORDER BY
 > This clause allows you to sort the result set of the specified SELECT statement by one or more columns and also provides the option of specifying an ascending or descending sort order for each column. The only columns you can use in the ORDER BY clause are those that are currently listed in the SELECT clause.
 \
-<img src="images/process-diagram.png">
-\
+<img src="images/process-diagram.PNG" width=80%> 
+
 
 ---
 ## SQL Commands
