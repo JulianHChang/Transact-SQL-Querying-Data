@@ -10,6 +10,7 @@ SELECT
 \
 FROM
 > use the FROM clause to specify the tables or views from which to draw the columns you’ve listed in the SELECT clause.
+> FROM clause plus JOIN, APPLY, PIVOT [Link](https://docs.microsoft.com/en-us/sql/t-sql/queries/from-transact-sql?view=sql-server-2017)
 
 \
 WHERE
